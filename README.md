@@ -30,11 +30,11 @@ or
     
 # Play piano
 
-    ./pyfpiano.py --play piano
+    $ ./pyfpiano.py --play piano
   
 # Play guitar
 
-    ./pyfpiano.py --play guitar
+    $ ./pyfpiano.py --play guitar
     
 # Changing notes
 
