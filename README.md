@@ -1,6 +1,10 @@
 # pyfpiano.py
 a tiny instrument player written in python
 
+![alt text](http://nsa38.casimages.com/img/2015/04/25/15042502361591450.png "pyfpiano.py console")
+![alt text](http://nsa38.casimages.com/img/2015/04/25/150425023719886467.png "pyfpiano.py")
+
+
 # How to Install it
 
 pyfpiano.py is designed for linux , to use the script you should install some modules and libraries
