@@ -9,23 +9,24 @@ a tiny instrument player written in python
 
 pyfpiano.py is designed for linux , to use the script you should install some modules and libraries
 
-    sudo apt-get install fluidsynth
-    sudo apt-get install libavbin-dev
+    $ sudo apt-get install fluidsynth
+    $ sudo apt-get install libavbin-dev
     
 python modules
 
-    sudo pip install pygame
-    sudo pip install pyglet
-    sudo pip install mingus
-    sudo pip install fluidsynth
+    $ sudo pip install pygame
+    $ sudo pip install pyglet
+    $ sudo pip install mingus
+    $ sudo pip install fluidsynth
     
 # How to use it
  
 Download the script , then execute it using python .
 
-    python pyfpiano.py --help
+    $ python pyfpiano.py --help
 or
-    ./pyfpiano.py --help
+
+    $ ./pyfpiano.py --help
     
 # Play piano
 
@@ -37,13 +38,13 @@ or
     
 # Changing notes
 
-    ./pyfpiano.py --play piano --note 3
+    $ ./pyfpiano.py --play piano --note 3
     
 this will play notes using the type 3 ; ex : A-3 C-3 E-3 F-3 G-3  
     
 # Saving the play
 
-    ./pyfiano.py --play piano --save test
+    $ ./pyfiano.py --play piano --save test
     
 then when you wanna save the file , press 's' 
 
