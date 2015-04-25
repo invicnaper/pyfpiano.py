@@ -27,7 +27,7 @@ or
 
     ./pyfpiano.py --play piano
   
-# PLay guitar
+# Play guitar
 
     ./pyfpiano.py --play guitar
     
@@ -45,8 +45,8 @@ then when you wanna save the file , press 's'
 
 # Note list 
 
-0 - C#
-1 - D#
-2 - F# 
-3 - G# 
-4 - A# 
+- 0 - C#
+- 1 - D#
+- 2 - F# 
+- 3 - G#
+- 4 - A# 
